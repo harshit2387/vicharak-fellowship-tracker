@@ -202,6 +202,15 @@
   ],
   "Dev Kumar Singh": [
     {
+      "type": "Diwali project",
+      "points": 90,
+      "title": "Lighting control demonstration using relay and shrike-lite",
+      "link": "https://github.com/2232def/rp2040_relay_led_pattern_controller",
+      "date": "2026-11-16",
+      "file": "Dev_Kumar_Singh_Project_2026-11-16.json",
+      "for_type": ""
+    },
+    {
       "type": "PurchaseProof",
       "points": 0,
       "title": "Vicharak Kit Purchase Proof",

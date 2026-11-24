@@ -1,6 +1,6 @@
-# Submissions by Fellow - 2026-11-24 14:02 UTC
+# Submissions by Fellow - 2026-11-24 14:07 UTC
 
-_Total: 58 accepted submissions across 23/69 fellows_
+_Total: 59 accepted submissions across 23/69 fellows_
 
 ## Adeep AG - 3 submission(s), 110 pts
 - [Linkedin] Geto Web IDE — Browser-Based IDE for Shrike-Lite (2026-10-27) - https://www.linkedin.com/posts/adeep-ag-adi132007_vicharak-opensource-embeddedsystems-ugcPost-7520750863313817600-W9P3/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFXM3gABgrZ5TwsjS5mNu4jNwJArM95rrHQ - 40 pts - `Adeep_AG_Linkedin_2026-10-27.json`
@@ -35,7 +35,8 @@ _Total: 58 accepted submissions across 23/69 fellows_
 - [Project] ShrikeFi 16-bit Multicycle CPU (2026-10-12) - https://github.com/apcetc/Vicharak_Campus_Fellowship_APC-/tree/main/PROJECT_1 - 70 pts - `ANNESTIO_PIETY_CASTANHA_Project_2026-10-12.json`
 - [PurchaseProof] Vicharak Kit Purchase Proof (2026-10-03) - https://raw.githubusercontent.com/apcetc/Vicharak_Campus_Fellowship_APC-/main/submissions/purchase_proof/INVOICE_APC.png - 0 pts - `ANNESTIO_PIETY_CASTANHA_PurchaseProof_2026-10-03.json`
 
-## Dev Kumar Singh - 1 submission(s), 0 pts
+## Dev Kumar Singh - 2 submission(s), 90 pts
+- [Diwali project] Lighting control demonstration using relay and shrike-lite (2026-11-16) - https://github.com/2232def/rp2040_relay_led_pattern_controller - 90 pts - `Dev_Kumar_Singh_Project_2026-11-16.json`
 - [PurchaseProof] Vicharak Kit Purchase Proof (2026-10-23) - https://drive.google.com/drive/folders/1_kEV9b1up5vsGaKk3_d6CEBD9v6QvkF5?usp=sharing - 0 pts - `Dev_Kumar_Singh_PurchaseProof_2026-10-23.json`
 
 ## Gantla Venkata Sravan - 1 submission(s), 0 pts

@@ -1,4 +1,4 @@
-# Fellowship Scores - 2026-11-24 14:02 UTC
+# Fellowship Scores - 2026-11-24 14:07 UTC
 
 Threshold: 250 (ELIGIBLE >= 250)
 
@@ -12,28 +12,28 @@ Threshold: 250 (ELIGIBLE >= 250)
 | 6 | [Nathan Mathews](allocations/Nathan_Mathews.md) | @deagle2 | YES | 1 | 0 | 1 | 0 | 0 | 0 | **110** | BELOW |
 | 7 | [Revand Pradeep](allocations/Revand_Pradeep.md) | @revx5 | YES | 1 | 1 | 0 | 0 | 0 | 0 | **110** | BELOW |
 | 8 | [Rudra Das](allocations/Rudra_Das.md) | @dengrao | YES | 0 | 0 | 0 | 0 | 0 | 2 | **100** | BELOW |
-| 9 | [Harshit Kumar Sharma](allocations/Harshit_Kumar_Sharma.md) | @harshit2387 | YES | 0 | 0 | 1 | 1 | 0 | 0 | **80** | BELOW |
-| 10 | [Rujul Rajeev Rumale](allocations/Rujul_Rajeev_Rumale.md) | @rujul-rumale | YES | 0 | 1 | 0 | 1 | 0 | 0 | **80** | BELOW |
-| 11 | [ANNESTIO PIETY CASTANHA](allocations/ANNESTIO_PIETY_CASTANHA.md) | @apcetc | YES | 1 | 0 | 0 | 0 | 0 | 0 | **70** | BELOW |
-| 12 | [Shreya Veni](allocations/Shreya_Veni.md) | @concatenate-this | YES | 0 | 0 | 1 | 0 | 0 | 0 | **40** | BELOW |
-| 13 | [Vaibhav Santosh Tiwari](allocations/Vaibhav_Santosh_Tiwari.md) | @orignalbox | YES | 0 | 0 | 0 | 1 | 0 | 0 | **40** | BELOW |
-| 14 | [Veer Kishan Whabi](allocations/Veer_Kishan_Whabi.md) | @veeru24ec006 | YES | 0 | 0 | 0 | 1 | 0 | 0 | **40** | BELOW |
-| 15 | [Aaditya Goswami](allocations/Aaditya_Goswami.md) | @aadii02 | NO | 0 | 0 | 0 | 0 | 0 | 0 | **0** | BELOW |
-| 16 | [Abhishek Jain](allocations/Abhishek_Jain.md) | @abhishek261007 | NO | 0 | 0 | 0 | 0 | 0 | 0 | **0** | BELOW |
-| 17 | [Aditya Nukala](allocations/Aditya_Nukala.md) | @adikp98 | YES | 0 | 0 | 0 | 0 | 0 | 0 | **0** | BELOW |
-| 18 | [Aditya Reddy](allocations/Aditya_Reddy.md) | @aditya-1020 | NO | 0 | 0 | 0 | 0 | 0 | 0 | **0** | BELOW |
-| 19 | [Aman Sharma](allocations/Aman_Sharma.md) | @captain1508 | NO | 0 | 0 | 0 | 0 | 0 | 0 | **0** | BELOW |
-| 20 | [Amrutha M](allocations/Amrutha_M.md) | @amrutham-24 | YES | 0 | 0 | 0 | 0 | 0 | 0 | **0** | BELOW |
-| 21 | [Anandu Rajan](allocations/Anandu_Rajan.md) | @anandurajan1209 | NO | 0 | 0 | 0 | 0 | 0 | 0 | **0** | BELOW |
-| 22 | [Anusheel Singh](allocations/Anusheel_Singh.md) | @anusheelsingh12 | NO | 0 | 0 | 0 | 0 | 0 | 0 | **0** | BELOW |
-| 23 | [Arafat Babar](allocations/Arafat_Babar.md) | @arafatbabar | NO | 0 | 0 | 0 | 0 | 0 | 0 | **0** | BELOW |
-| 24 | [Arijit Ghosh](allocations/Arijit_Ghosh.md) | @ari-jit | NO | 0 | 0 | 0 | 0 | 0 | 0 | **0** | BELOW |
-| 25 | [Arjun A](allocations/Arjun_A.md) | @arjnchrn | NO | 0 | 0 | 0 | 0 | 0 | 0 | **0** | BELOW |
-| 26 | [Arush Dwivedi](allocations/Arush_Dwivedi.md) | @arushdwivedi11 | NO | 0 | 0 | 0 | 0 | 0 | 0 | **0** | BELOW |
-| 27 | [Aryan Malhotra](allocations/Aryan_Malhotra.md) | @aryan514 | NO | 0 | 0 | 0 | 0 | 0 | 0 | **0** | BELOW |
-| 28 | [Ashish Kumar Pal](allocations/Ashish_Kumar_Pal.md) | @jipal5212-wq | NO | 0 | 0 | 0 | 0 | 0 | 0 | **0** | BELOW |
-| 29 | [CHERALA ROHAN](allocations/CHERALA_ROHAN.md) | @therohancherala | NO | 0 | 0 | 0 | 0 | 0 | 0 | **0** | BELOW |
-| 30 | [Dev Kumar Singh](allocations/Dev_Kumar_Singh.md) | @2232def | YES | 0 | 0 | 0 | 0 | 0 | 0 | **0** | BELOW |
+| 9 | [Dev Kumar Singh](allocations/Dev_Kumar_Singh.md) | @2232def | YES | 0 | 0 | 0 | 0 | 0 | 1 | **90** | BELOW |
+| 10 | [Harshit Kumar Sharma](allocations/Harshit_Kumar_Sharma.md) | @harshit2387 | YES | 0 | 0 | 1 | 1 | 0 | 0 | **80** | BELOW |
+| 11 | [Rujul Rajeev Rumale](allocations/Rujul_Rajeev_Rumale.md) | @rujul-rumale | YES | 0 | 1 | 0 | 1 | 0 | 0 | **80** | BELOW |
+| 12 | [ANNESTIO PIETY CASTANHA](allocations/ANNESTIO_PIETY_CASTANHA.md) | @apcetc | YES | 1 | 0 | 0 | 0 | 0 | 0 | **70** | BELOW |
+| 13 | [Shreya Veni](allocations/Shreya_Veni.md) | @concatenate-this | YES | 0 | 0 | 1 | 0 | 0 | 0 | **40** | BELOW |
+| 14 | [Vaibhav Santosh Tiwari](allocations/Vaibhav_Santosh_Tiwari.md) | @orignalbox | YES | 0 | 0 | 0 | 1 | 0 | 0 | **40** | BELOW |
+| 15 | [Veer Kishan Whabi](allocations/Veer_Kishan_Whabi.md) | @veeru24ec006 | YES | 0 | 0 | 0 | 1 | 0 | 0 | **40** | BELOW |
+| 16 | [Aaditya Goswami](allocations/Aaditya_Goswami.md) | @aadii02 | NO | 0 | 0 | 0 | 0 | 0 | 0 | **0** | BELOW |
+| 17 | [Abhishek Jain](allocations/Abhishek_Jain.md) | @abhishek261007 | NO | 0 | 0 | 0 | 0 | 0 | 0 | **0** | BELOW |
+| 18 | [Aditya Nukala](allocations/Aditya_Nukala.md) | @adikp98 | YES | 0 | 0 | 0 | 0 | 0 | 0 | **0** | BELOW |
+| 19 | [Aditya Reddy](allocations/Aditya_Reddy.md) | @aditya-1020 | NO | 0 | 0 | 0 | 0 | 0 | 0 | **0** | BELOW |
+| 20 | [Aman Sharma](allocations/Aman_Sharma.md) | @captain1508 | NO | 0 | 0 | 0 | 0 | 0 | 0 | **0** | BELOW |
+| 21 | [Amrutha M](allocations/Amrutha_M.md) | @amrutham-24 | YES | 0 | 0 | 0 | 0 | 0 | 0 | **0** | BELOW |
+| 22 | [Anandu Rajan](allocations/Anandu_Rajan.md) | @anandurajan1209 | NO | 0 | 0 | 0 | 0 | 0 | 0 | **0** | BELOW |
+| 23 | [Anusheel Singh](allocations/Anusheel_Singh.md) | @anusheelsingh12 | NO | 0 | 0 | 0 | 0 | 0 | 0 | **0** | BELOW |
+| 24 | [Arafat Babar](allocations/Arafat_Babar.md) | @arafatbabar | NO | 0 | 0 | 0 | 0 | 0 | 0 | **0** | BELOW |
+| 25 | [Arijit Ghosh](allocations/Arijit_Ghosh.md) | @ari-jit | NO | 0 | 0 | 0 | 0 | 0 | 0 | **0** | BELOW |
+| 26 | [Arjun A](allocations/Arjun_A.md) | @arjnchrn | NO | 0 | 0 | 0 | 0 | 0 | 0 | **0** | BELOW |
+| 27 | [Arush Dwivedi](allocations/Arush_Dwivedi.md) | @arushdwivedi11 | NO | 0 | 0 | 0 | 0 | 0 | 0 | **0** | BELOW |
+| 28 | [Aryan Malhotra](allocations/Aryan_Malhotra.md) | @aryan514 | NO | 0 | 0 | 0 | 0 | 0 | 0 | **0** | BELOW |
+| 29 | [Ashish Kumar Pal](allocations/Ashish_Kumar_Pal.md) | @jipal5212-wq | NO | 0 | 0 | 0 | 0 | 0 | 0 | **0** | BELOW |
+| 30 | [CHERALA ROHAN](allocations/CHERALA_ROHAN.md) | @therohancherala | NO | 0 | 0 | 0 | 0 | 0 | 0 | **0** | BELOW |
 | 31 | [Drik Paul](allocations/Drik_Paul.md) | @drik245 | NO | 0 | 0 | 0 | 0 | 0 | 0 | **0** | BELOW |
 | 32 | [Gantla Venkata Sravan](allocations/Gantla_Venkata_Sravan.md) | @sravangantla007 | YES | 0 | 0 | 0 | 0 | 0 | 0 | **0** | BELOW |
 | 33 | [Hardik Kumar Sinha](allocations/Hardik_Kumar_Sinha.md) | @hksinha510 | YES | 0 | 0 | 0 | 0 | 0 | 0 | **0** | BELOW |

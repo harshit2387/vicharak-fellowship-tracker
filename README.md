@@ -108,7 +108,7 @@ Points = number of accepted links x points for that type. Total = sum of all. 25
 
 ## Live Score List (auto-updated on every merge, do not edit below)
 <!-- SCORES_START -->
-_Updated 2026-11-24 14:02 UTC - Threshold 250 - 14/69 with points_
+_Updated 2026-11-24 14:07 UTC - Threshold 250 - 15/69 with points_
 
 | Rank | Fellow | GitHub | Kit | Total | Status |
 |---:|---|---|---|---:|---|
@@ -120,18 +120,18 @@ _Updated 2026-11-24 14:02 UTC - Threshold 250 - 14/69 with points_
 | 6 | [Nathan Mathews](allocations/Nathan_Mathews.md) | @deagle2 | YES | **110** | BELOW |
 | 7 | [Revand Pradeep](allocations/Revand_Pradeep.md) | @revx5 | YES | **110** | BELOW |
 | 8 | [Rudra Das](allocations/Rudra_Das.md) | @dengrao | YES | **100** | BELOW |
-| 9 | [Harshit Kumar Sharma](allocations/Harshit_Kumar_Sharma.md) | @harshit2387 | YES | **80** | BELOW |
-| 10 | [Rujul Rajeev Rumale](allocations/Rujul_Rajeev_Rumale.md) | @rujul-rumale | YES | **80** | BELOW |
-| 11 | [ANNESTIO PIETY CASTANHA](allocations/ANNESTIO_PIETY_CASTANHA.md) | @apcetc | YES | **70** | BELOW |
-| 12 | [Shreya Veni](allocations/Shreya_Veni.md) | @concatenate-this | YES | **40** | BELOW |
-| 13 | [Vaibhav Santosh Tiwari](allocations/Vaibhav_Santosh_Tiwari.md) | @orignalbox | YES | **40** | BELOW |
-| 14 | [Veer Kishan Whabi](allocations/Veer_Kishan_Whabi.md) | @veeru24ec006 | YES | **40** | BELOW |
-| 15 | [Aaditya Goswami](allocations/Aaditya_Goswami.md) | @aadii02 | NO | **0** | BELOW |
-| 16 | [Abhishek Jain](allocations/Abhishek_Jain.md) | @abhishek261007 | NO | **0** | BELOW |
-| 17 | [Aditya Nukala](allocations/Aditya_Nukala.md) | @adikp98 | YES | **0** | BELOW |
-| 18 | [Aditya Reddy](allocations/Aditya_Reddy.md) | @aditya-1020 | NO | **0** | BELOW |
-| 19 | [Aman Sharma](allocations/Aman_Sharma.md) | @captain1508 | NO | **0** | BELOW |
-| 20 | [Amrutha M](allocations/Amrutha_M.md) | @amrutham-24 | YES | **0** | BELOW |
+| 9 | [Dev Kumar Singh](allocations/Dev_Kumar_Singh.md) | @2232def | YES | **90** | BELOW |
+| 10 | [Harshit Kumar Sharma](allocations/Harshit_Kumar_Sharma.md) | @harshit2387 | YES | **80** | BELOW |
+| 11 | [Rujul Rajeev Rumale](allocations/Rujul_Rajeev_Rumale.md) | @rujul-rumale | YES | **80** | BELOW |
+| 12 | [ANNESTIO PIETY CASTANHA](allocations/ANNESTIO_PIETY_CASTANHA.md) | @apcetc | YES | **70** | BELOW |
+| 13 | [Shreya Veni](allocations/Shreya_Veni.md) | @concatenate-this | YES | **40** | BELOW |
+| 14 | [Vaibhav Santosh Tiwari](allocations/Vaibhav_Santosh_Tiwari.md) | @orignalbox | YES | **40** | BELOW |
+| 15 | [Veer Kishan Whabi](allocations/Veer_Kishan_Whabi.md) | @veeru24ec006 | YES | **40** | BELOW |
+| 16 | [Aaditya Goswami](allocations/Aaditya_Goswami.md) | @aadii02 | NO | **0** | BELOW |
+| 17 | [Abhishek Jain](allocations/Abhishek_Jain.md) | @abhishek261007 | NO | **0** | BELOW |
+| 18 | [Aditya Nukala](allocations/Aditya_Nukala.md) | @adikp98 | YES | **0** | BELOW |
+| 19 | [Aditya Reddy](allocations/Aditya_Reddy.md) | @aditya-1020 | NO | **0** | BELOW |
+| 20 | [Aman Sharma](allocations/Aman_Sharma.md) | @captain1508 | NO | **0** | BELOW |
 
 _Showing top 20 of 69 - full list in [SCORES.md](SCORES.md)_
 <!-- SCORES_END -->
@@ -140,7 +140,7 @@ Full table: [`SCORES.md`](SCORES.md) · Machine-readable: [`allocations/summary.
 
 ## Projects (auto-updated on every merge, do not edit below)
 <!-- PROJECTS_START -->
-_Updated 2026-11-24 14:02 UTC — 10 approved, 2 in review_
+_Updated 2026-11-24 14:07 UTC — 10 approved, 2 in review_
 
 ### Approved Projects
 | Fellow | Project | Link |
