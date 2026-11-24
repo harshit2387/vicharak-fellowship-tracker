@@ -1,6 +1,6 @@
-# Submissions by Fellow - 2026-11-13 13:05 UTC
+# Submissions by Fellow - 2026-11-24 13:57 UTC
 
-_Total: 56 accepted submissions across 23/69 fellows_
+_Total: 57 accepted submissions across 23/69 fellows_
 
 ## Adeep AG - 3 submission(s), 110 pts
 - [Linkedin] Geto Web IDE — Browser-Based IDE for Shrike-Lite (2026-10-27) - https://www.linkedin.com/posts/adeep-ag-adi132007_vicharak-opensource-embeddedsystems-ugcPost-7520750863313817600-W9P3/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFXM3gABgrZ5TwsjS5mNu4jNwJArM95rrHQ - 40 pts - `Adeep_AG_Linkedin_2026-10-27.json`
@@ -22,9 +22,10 @@ _Total: 56 accepted submissions across 23/69 fellows_
 ## Amrutha M - 1 submission(s), 0 pts
 - [PurchaseProof] Unboxing Vicharak Shrike-Fi (2026-11-08) - https://drive.google.com/file/d/1rfLHI46ZkYroouUPY6lU7rg-J2HjH6f_/view?usp=drive_link - 0 pts - `Amrutha_M__PurchaseProof_2026-11-08.json`
 
-## Ankit raj - 5 submission(s), 160 pts
+## Ankit raj - 6 submission(s), 250 pts
 - [Blog] Shrike-Scope: Building a USB Oscilloscope with the Vicharak Shrike-Fi (2026-10-15) - https://docs.google.com/document/d/1LPNTUWZky4v0anmgryq7N7yoyT6Yg6AC/edit?usp=sharing&ouid=109376149344711751562&rtpof=true&sd=true - 40 pts - `Ankit_raj_Blog_2026-10-15.json`
 - [Blog] ShrikEnigma: Rebuilding World war II Enigma on the Shrike Fi FPGA (2026-10-30) - https://app.notion.com/p/ShrikEnigma-Rebuilding-Enigma-on-the-Shrike-Fi-FPGA-40974b84c70c8192887ff7cf71a7e495?source=copy_link - 40 pts - `Ankit_raj_Blog_2026-10-30.json`
+- [Diwali project] PyroCore — FPGA-Based Real-Time Particle Graphics Accelerator on Shrike-Fi (2026-11-08) - https://github.com/ANKITRA-J/pyrocore - 90 pts - `Ankit_raj_Diwali_project_2026-11-08.json`
 - [PurchaseProof] Vicharak Fellowship Kit Purchase Proof (2026-10-13) - https://drive.google.com/drive/folders/1ULPYCRh1iDjAZz93mgKhIKx7e3LOg7Sx - 0 pts - `Ankit_raj_PurchaseProof_2026-10-13.json`
 - [X] Shrike-Scope: laptop oscilloscope on Vicharak Shrike-Fi (2026-10-15) - https://docs.google.com/document/d/1HdydgKhk10kyXjXO52IPTpVtqnq3nk1D1awjBy11p0s/edit?usp=sharing - 40 pts - `Ankit_raj_X_2026-10-15.json`
 - [X] ShrikEnigma: Hardware WWII Enigma Machine on Shrike-Fi FPGA (2026-10-30) - https://docs.google.com/document/d/1wJ0Bla-vXqlKrBWtmZnBGOJozGsdPDHfYkWUCrVemmI/edit?usp=sharing - 40 pts - `Ankit_raj_X_2026-10-30.json`

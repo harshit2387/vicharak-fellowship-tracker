@@ -108,13 +108,13 @@ Points = number of accepted links x points for that type. Total = sum of all. 25
 
 ## Live Score List (auto-updated on every merge, do not edit below)
 <!-- SCORES_START -->
-_Updated 2026-11-13 13:05 UTC - Threshold 250 - 14/69 with points_
+_Updated 2026-11-24 13:57 UTC - Threshold 250 - 14/69 with points_
 
 | Rank | Fellow | GitHub | Kit | Total | Status |
 |---:|---|---|---|---:|---|
 | 1 | [Amaan Pathan](allocations/Amaan_Pathan.md) | @amaan9737 | YES | **270** | ELIGIBLE |
 | 2 | [yatharth vishwa](allocations/yatharth_vishwa.md) | @yatharthvishwa | YES | **260** | ELIGIBLE |
-| 3 | [Ankit raj](allocations/Ankit_raj.md) | @ankitra-j | YES | **160** | BELOW |
+| 3 | [Ankit raj](allocations/Ankit_raj.md) | @ankitra-j | YES | **250** | ELIGIBLE |
 | 4 | [Saksham Sud](allocations/Saksham_Sud.md) | @geneticscrol | YES | **140** | BELOW |
 | 5 | [Adeep AG](allocations/Adeep_AG.md) | @adeep13 | YES | **110** | BELOW |
 | 6 | [Nathan Mathews](allocations/Nathan_Mathews.md) | @deagle2 | YES | **110** | BELOW |
@@ -140,7 +140,7 @@ Full table: [`SCORES.md`](SCORES.md) · Machine-readable: [`allocations/summary.
 
 ## Projects (auto-updated on every merge, do not edit below)
 <!-- PROJECTS_START -->
-_Updated 2026-11-13 13:05 UTC — 9 approved, 2 in review_
+_Updated 2026-11-24 13:57 UTC — 9 approved, 3 in review_
 
 ### Approved Projects
 | Fellow | Project | Link |
@@ -159,6 +159,7 @@ _Updated 2026-11-13 13:05 UTC — 9 approved, 2 in review_
 | Fellow | Project | PR | Opened |
 |---|---|---|---|
 | Ankit raj | Shrike-Fi Enigma | PR #108 | 2026-10-29 |
+| Rujul Rajeev Rumale | Shrike-TraceRunner: FPGA-Primary PID Line Follower | PR #122 | 2026-11-16 |
 | Vaibhav Santosh Tiwari | Bare-Metal RP2040 Firmware for Shrike Lite | PR #107 | 2026-10-29 |
 
 Full list + upstream examples: [docs/PROJECTS.md](docs/PROJECTS.md)
