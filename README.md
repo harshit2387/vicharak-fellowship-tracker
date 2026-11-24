@@ -108,13 +108,13 @@ Points = number of accepted links x points for that type. Total = sum of all. 25
 
 ## Live Score List (auto-updated on every merge, do not edit below)
 <!-- SCORES_START -->
-_Updated 2026-11-24 13:57 UTC - Threshold 250 - 14/69 with points_
+_Updated 2026-11-24 14:02 UTC - Threshold 250 - 14/69 with points_
 
 | Rank | Fellow | GitHub | Kit | Total | Status |
 |---:|---|---|---|---:|---|
-| 1 | [Amaan Pathan](allocations/Amaan_Pathan.md) | @amaan9737 | YES | **270** | ELIGIBLE |
-| 2 | [yatharth vishwa](allocations/yatharth_vishwa.md) | @yatharthvishwa | YES | **260** | ELIGIBLE |
-| 3 | [Ankit raj](allocations/Ankit_raj.md) | @ankitra-j | YES | **250** | ELIGIBLE |
+| 1 | [Ankit raj](allocations/Ankit_raj.md) | @ankitra-j | YES | **320** | ELIGIBLE |
+| 2 | [Amaan Pathan](allocations/Amaan_Pathan.md) | @amaan9737 | YES | **270** | ELIGIBLE |
+| 3 | [yatharth vishwa](allocations/yatharth_vishwa.md) | @yatharthvishwa | YES | **260** | ELIGIBLE |
 | 4 | [Saksham Sud](allocations/Saksham_Sud.md) | @geneticscrol | YES | **140** | BELOW |
 | 5 | [Adeep AG](allocations/Adeep_AG.md) | @adeep13 | YES | **110** | BELOW |
 | 6 | [Nathan Mathews](allocations/Nathan_Mathews.md) | @deagle2 | YES | **110** | BELOW |
@@ -140,13 +140,14 @@ Full table: [`SCORES.md`](SCORES.md) · Machine-readable: [`allocations/summary.
 
 ## Projects (auto-updated on every merge, do not edit below)
 <!-- PROJECTS_START -->
-_Updated 2026-11-24 13:57 UTC — 9 approved, 3 in review_
+_Updated 2026-11-24 14:02 UTC — 10 approved, 2 in review_
 
 ### Approved Projects
 | Fellow | Project | Link |
 |---|---|---|
 | Adeep AG | Geto Web IDE : For Shrike Series board(RP2040 & RP2350) | https://github.com/ADEEP13/IDE |
 | Amaan Pathan | Shrike-Fi Three-Phase SPWM Inverter | https://github.com/Amaan9737/shrike-fi-three-phase-spwm-inverter |
+| Ankit raj | Shrike-Fi Enigma — Hardware Cryptographic Enigma Simulation on ESP32 & FPGA | https://github.com/ANKITRA-J/shrikenigma |
 | ANNESTIO PIETY CASTANHA | ShrikeFi 16-bit Multicycle CPU | https://github.com/apcetc/Vicharak_Campus_Fellowship_APC-/tree/main/PROJECT_1 |
 | Nathan Mathews | Tiny ILA for Shrike | https://github.com/Deagle2/shrike-traces |
 | Revand Pradeep | Shrike-Sentinel | https://docs.google.com/document/d/1DzsEX9RhsuA5Obxm0qkuIky-P2YCXNoWIiYl_c4sDtA/edit?usp=sharing |
@@ -158,7 +159,6 @@ _Updated 2026-11-24 13:57 UTC — 9 approved, 3 in review_
 ### In Review (open PRs)
 | Fellow | Project | PR | Opened |
 |---|---|---|---|
-| Ankit raj | Shrike-Fi Enigma | PR #108 | 2026-10-29 |
 | Rujul Rajeev Rumale | Shrike-TraceRunner: FPGA-Primary PID Line Follower | PR #122 | 2026-11-16 |
 | Vaibhav Santosh Tiwari | Bare-Metal RP2040 Firmware for Shrike Lite | PR #107 | 2026-10-29 |
 

@@ -144,6 +144,15 @@
       "for_type": ""
     },
     {
+      "type": "Project",
+      "points": 70,
+      "title": "Shrike-Fi Enigma — Hardware Cryptographic Enigma Simulation on ESP32 & FPGA",
+      "link": "https://github.com/ANKITRA-J/shrikenigma",
+      "date": "2026-10-30",
+      "file": "Ankit_raj_Project_2026-10-30.json",
+      "for_type": ""
+    },
+    {
       "type": "PurchaseProof",
       "points": 0,
       "title": "Vicharak Fellowship Kit Purchase Proof",

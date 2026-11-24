@@ -1,12 +1,12 @@
-# Fellowship Scores - 2026-11-24 13:57 UTC
+# Fellowship Scores - 2026-11-24 14:02 UTC
 
 Threshold: 250 (ELIGIBLE >= 250)
 
 | Rank | Fellow | GitHub | Kit | Project | LinkedIn | Blog | X | Workshop | Other | Total | Status |
 |---:|---|---|---|---|---|---|---|---|---|---|---|
-| 1 | [Amaan Pathan](allocations/Amaan_Pathan.md) | @amaan9737 | YES | 1 | 2 | 1 | 2 | 0 | 0 | **270** | ELIGIBLE |
-| 2 | [yatharth vishwa](allocations/yatharth_vishwa.md) | @yatharthvishwa | YES | 2 | 3 | 0 | 0 | 0 | 0 | **260** | ELIGIBLE |
-| 3 | [Ankit raj](allocations/Ankit_raj.md) | @ankitra-j | YES | 0 | 0 | 2 | 2 | 0 | 1 | **250** | ELIGIBLE |
+| 1 | [Ankit raj](allocations/Ankit_raj.md) | @ankitra-j | YES | 1 | 0 | 2 | 2 | 0 | 1 | **320** | ELIGIBLE |
+| 2 | [Amaan Pathan](allocations/Amaan_Pathan.md) | @amaan9737 | YES | 1 | 2 | 1 | 2 | 0 | 0 | **270** | ELIGIBLE |
+| 3 | [yatharth vishwa](allocations/yatharth_vishwa.md) | @yatharthvishwa | YES | 2 | 3 | 0 | 0 | 0 | 0 | **260** | ELIGIBLE |
 | 4 | [Saksham Sud](allocations/Saksham_Sud.md) | @geneticscrol | YES | 2 | 0 | 0 | 0 | 0 | 0 | **140** | BELOW |
 | 5 | [Adeep AG](allocations/Adeep_AG.md) | @adeep13 | YES | 1 | 1 | 0 | 0 | 0 | 0 | **110** | BELOW |
 | 6 | [Nathan Mathews](allocations/Nathan_Mathews.md) | @deagle2 | YES | 1 | 0 | 1 | 0 | 0 | 0 | **110** | BELOW |
