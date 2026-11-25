@@ -1,4 +1,4 @@
-# Fellowship Scores - 2026-11-25 11:37 UTC
+# Fellowship Scores - 2026-11-25 12:00 UTC
 
 Threshold: 250 (ELIGIBLE >= 250)
 
@@ -7,11 +7,11 @@ Threshold: 250 (ELIGIBLE >= 250)
 | 1 | [Ankit raj](allocations/Ankit_raj.md) | @ankitra-j | YES | 1 | 0 | 2 | 2 | 0 | 1 | **320** | ELIGIBLE |
 | 2 | [Amaan Pathan](allocations/Amaan_Pathan.md) | @amaan9737 | YES | 1 | 2 | 1 | 2 | 0 | 0 | **270** | ELIGIBLE |
 | 3 | [yatharth vishwa](allocations/yatharth_vishwa.md) | @yatharthvishwa | YES | 2 | 3 | 0 | 0 | 0 | 0 | **260** | ELIGIBLE |
-| 4 | [Saksham Sud](allocations/Saksham_Sud.md) | @geneticscrol | YES | 2 | 0 | 0 | 0 | 0 | 0 | **140** | BELOW |
-| 5 | [Adeep AG](allocations/Adeep_AG.md) | @adeep13 | YES | 1 | 1 | 0 | 0 | 0 | 0 | **110** | BELOW |
-| 6 | [Nathan Mathews](allocations/Nathan_Mathews.md) | @deagle2 | YES | 1 | 0 | 1 | 0 | 0 | 0 | **110** | BELOW |
-| 7 | [Revand Pradeep](allocations/Revand_Pradeep.md) | @revx5 | YES | 1 | 1 | 0 | 0 | 0 | 0 | **110** | BELOW |
-| 8 | [Vaibhav Santosh Tiwari](allocations/Vaibhav_Santosh_Tiwari.md) | @orignalbox | YES | 1 | 0 | 0 | 1 | 0 | 0 | **110** | BELOW |
+| 4 | [Vaibhav Santosh Tiwari](allocations/Vaibhav_Santosh_Tiwari.md) | @orignalbox | YES | 1 | 0 | 1 | 1 | 0 | 0 | **150** | BELOW |
+| 5 | [Saksham Sud](allocations/Saksham_Sud.md) | @geneticscrol | YES | 2 | 0 | 0 | 0 | 0 | 0 | **140** | BELOW |
+| 6 | [Adeep AG](allocations/Adeep_AG.md) | @adeep13 | YES | 1 | 1 | 0 | 0 | 0 | 0 | **110** | BELOW |
+| 7 | [Nathan Mathews](allocations/Nathan_Mathews.md) | @deagle2 | YES | 1 | 0 | 1 | 0 | 0 | 0 | **110** | BELOW |
+| 8 | [Revand Pradeep](allocations/Revand_Pradeep.md) | @revx5 | YES | 1 | 1 | 0 | 0 | 0 | 0 | **110** | BELOW |
 | 9 | [Rudra Das](allocations/Rudra_Das.md) | @dengrao | YES | 0 | 0 | 0 | 0 | 0 | 2 | **100** | BELOW |
 | 10 | [Dev Kumar Singh](allocations/Dev_Kumar_Singh.md) | @2232def | YES | 0 | 0 | 0 | 0 | 0 | 1 | **90** | BELOW |
 | 11 | [Harshit Kumar Sharma](allocations/Harshit_Kumar_Sharma.md) | @harshit2387 | YES | 0 | 0 | 1 | 1 | 0 | 0 | **80** | BELOW |

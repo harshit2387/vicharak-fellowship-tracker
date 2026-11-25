@@ -482,6 +482,15 @@
   ],
   "Vaibhav Santosh Tiwari": [
     {
+      "type": "Blog",
+      "points": 40,
+      "title": "Bare-Metal Firmware on the RP2040 Without the Pico SDK",
+      "link": "https://ogbox.me/blog/baremetal.html",
+      "date": "2026-11-21",
+      "file": "Vaibhav_Santosh_Tiwari_Blog_2026-11-21.json",
+      "for_type": ""
+    },
+    {
       "type": "Project",
       "points": 70,
       "title": "Bare-Metal RP2040 Firmware for Shrike Lite (Zero SDK)",

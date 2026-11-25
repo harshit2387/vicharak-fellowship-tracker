@@ -108,18 +108,18 @@ Points = number of accepted links x points for that type. Total = sum of all. 25
 
 ## Live Score List (auto-updated on every merge, do not edit below)
 <!-- SCORES_START -->
-_Updated 2026-11-25 11:37 UTC - Threshold 250 - 15/69 with points_
+_Updated 2026-11-25 12:00 UTC - Threshold 250 - 15/69 with points_
 
 | Rank | Fellow | GitHub | Kit | Total | Status |
 |---:|---|---|---|---:|---|
 | 1 | [Ankit raj](allocations/Ankit_raj.md) | @ankitra-j | YES | **320** | ELIGIBLE |
 | 2 | [Amaan Pathan](allocations/Amaan_Pathan.md) | @amaan9737 | YES | **270** | ELIGIBLE |
 | 3 | [yatharth vishwa](allocations/yatharth_vishwa.md) | @yatharthvishwa | YES | **260** | ELIGIBLE |
-| 4 | [Saksham Sud](allocations/Saksham_Sud.md) | @geneticscrol | YES | **140** | BELOW |
-| 5 | [Adeep AG](allocations/Adeep_AG.md) | @adeep13 | YES | **110** | BELOW |
-| 6 | [Nathan Mathews](allocations/Nathan_Mathews.md) | @deagle2 | YES | **110** | BELOW |
-| 7 | [Revand Pradeep](allocations/Revand_Pradeep.md) | @revx5 | YES | **110** | BELOW |
-| 8 | [Vaibhav Santosh Tiwari](allocations/Vaibhav_Santosh_Tiwari.md) | @orignalbox | YES | **110** | BELOW |
+| 4 | [Vaibhav Santosh Tiwari](allocations/Vaibhav_Santosh_Tiwari.md) | @orignalbox | YES | **150** | BELOW |
+| 5 | [Saksham Sud](allocations/Saksham_Sud.md) | @geneticscrol | YES | **140** | BELOW |
+| 6 | [Adeep AG](allocations/Adeep_AG.md) | @adeep13 | YES | **110** | BELOW |
+| 7 | [Nathan Mathews](allocations/Nathan_Mathews.md) | @deagle2 | YES | **110** | BELOW |
+| 8 | [Revand Pradeep](allocations/Revand_Pradeep.md) | @revx5 | YES | **110** | BELOW |
 | 9 | [Rudra Das](allocations/Rudra_Das.md) | @dengrao | YES | **100** | BELOW |
 | 10 | [Dev Kumar Singh](allocations/Dev_Kumar_Singh.md) | @2232def | YES | **90** | BELOW |
 | 11 | [Harshit Kumar Sharma](allocations/Harshit_Kumar_Sharma.md) | @harshit2387 | YES | **80** | BELOW |
@@ -140,7 +140,7 @@ Full table: [`SCORES.md`](SCORES.md) · Machine-readable: [`allocations/summary.
 
 ## Projects (auto-updated on every merge, do not edit below)
 <!-- PROJECTS_START -->
-_Updated 2026-11-25 11:37 UTC — 11 approved, 1 in review_
+_Updated 2026-11-25 12:00 UTC — 11 approved, 1 in review_
 
 ### Approved Projects
 | Fellow | Project | Link |
