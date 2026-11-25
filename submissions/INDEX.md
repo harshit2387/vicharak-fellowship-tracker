@@ -1,6 +1,6 @@
-# Submissions by Fellow - 2026-11-25 12:46 UTC
+# Submissions by Fellow - 2026-11-25 12:50 UTC
 
-_Total: 63 accepted submissions across 23/69 fellows_
+_Total: 64 accepted submissions across 23/69 fellows_
 
 ## Adeep AG - 3 submission(s), 110 pts
 - [Linkedin] Geto Web IDE — Browser-Based IDE for Shrike-Lite (2026-10-27) - https://www.linkedin.com/posts/adeep-ag-adi132007_vicharak-opensource-embeddedsystems-ugcPost-7520750863313817600-W9P3/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFXM3gABgrZ5TwsjS5mNu4jNwJArM95rrHQ - 40 pts - `Adeep_AG_Linkedin_2026-10-27.json`
@@ -46,10 +46,11 @@ _Total: 63 accepted submissions across 23/69 fellows_
 ## Hardik Kumar Sinha - 1 submission(s), 0 pts
 - [PurchaseProof] ShrikeFi PurchaseProof, Order #6505 (2026-10-07) - https://drive.google.com/file/d/17PDVtNNHAzT4F4VuFTIq53OeErCilu2b/view?usp=sharing - 0 pts - `Hardik_Kumar_Sinha_PurchaseProof_2026-10-07.json`
 
-## Harshit Kumar Sharma - 3 submission(s), 80 pts
+## Harshit Kumar Sharma - 4 submission(s), 130 pts
 - [Blog] My Journey with Vicharak: Exploring Reconfigurable Computing (2026-10-15) - https://docs.google.com/document/d/1eVXTWC7kz1-T-7XDU8W0iMRcp34p7p_lXSpCNLVltkw/edit?usp=sharing - 40 pts - `Harshit_Kumar_Sharma_Blog_2026-10-15.json`
 - [PurchaseProof] Purchase Proof Orders #4989 and #5785 (2026-10-04) - https://docs.google.com/document/d/1xIFamwjXaCcTN_OIHSBaBIrnRZicWH-KDGStICfz7Ws/edit?usp=sharing - 0 pts - `Harshit_Kumar_Sharma_PurchaseProof_2026-10-04.json`
 - [X] Vicharak Fellowship Kickoff Post (2026-10-08) - https://docs.google.com/document/d/1wtRL2N-kqDj2T9i16jaijWDE3giKfRZs6k4EvHBKFEA/edit?usp=sharing - 40 pts - `Harshit_Kumar_Sharma_X_2026-10-08.json`
+- [YT shorts] Testing FPGA Display Logic on Vicharak Shrike-lite FPGA (2026-11-25) - https://www.youtube.com/shorts/dFhGTR2bFv4 - 50 pts - `Harshit_Kumar_Sharma_YT_shorts_2026-11-25.json`
 
 ## MAJJI BHANU PRAKASH - 1 submission(s), 0 pts
 - [PurchaseProof] PurchaseProof (2026-10-07) - https://drive.google.com/file/d/1CDshSAe84N0fkmZvA8rQyvRSKdjuD4up/view?usp=drivesdk - 0 pts - `MAJJI_BHANU_PRAKASH_Purchaseproof_2026-10-09.json`
