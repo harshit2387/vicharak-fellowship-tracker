@@ -1,4 +1,4 @@
-# Fellowship Scores - 2026-11-25 12:09 UTC
+# Fellowship Scores - 2026-11-25 12:46 UTC
 
 Threshold: 250 (ELIGIBLE >= 250)
 
@@ -7,15 +7,15 @@ Threshold: 250 (ELIGIBLE >= 250)
 | 1 | [Amaan Pathan](allocations/Amaan_Pathan.md) | @amaan9737 | YES | 1 | 2 | 1 | 2 | 0 | 1 | **360** | ELIGIBLE |
 | 2 | [Ankit raj](allocations/Ankit_raj.md) | @ankitra-j | YES | 1 | 0 | 2 | 2 | 0 | 1 | **320** | ELIGIBLE |
 | 3 | [yatharth vishwa](allocations/yatharth_vishwa.md) | @yatharthvishwa | YES | 2 | 3 | 0 | 0 | 0 | 0 | **260** | ELIGIBLE |
-| 4 | [Vaibhav Santosh Tiwari](allocations/Vaibhav_Santosh_Tiwari.md) | @orignalbox | YES | 1 | 0 | 1 | 1 | 0 | 0 | **150** | BELOW |
-| 5 | [Saksham Sud](allocations/Saksham_Sud.md) | @geneticscrol | YES | 2 | 0 | 0 | 0 | 0 | 0 | **140** | BELOW |
-| 6 | [Adeep AG](allocations/Adeep_AG.md) | @adeep13 | YES | 1 | 1 | 0 | 0 | 0 | 0 | **110** | BELOW |
-| 7 | [Nathan Mathews](allocations/Nathan_Mathews.md) | @deagle2 | YES | 1 | 0 | 1 | 0 | 0 | 0 | **110** | BELOW |
-| 8 | [Revand Pradeep](allocations/Revand_Pradeep.md) | @revx5 | YES | 1 | 1 | 0 | 0 | 0 | 0 | **110** | BELOW |
-| 9 | [Rudra Das](allocations/Rudra_Das.md) | @dengrao | YES | 0 | 0 | 0 | 0 | 0 | 2 | **100** | BELOW |
-| 10 | [Dev Kumar Singh](allocations/Dev_Kumar_Singh.md) | @2232def | YES | 0 | 0 | 0 | 0 | 0 | 1 | **90** | BELOW |
-| 11 | [Harshit Kumar Sharma](allocations/Harshit_Kumar_Sharma.md) | @harshit2387 | YES | 0 | 0 | 1 | 1 | 0 | 0 | **80** | BELOW |
-| 12 | [Rujul Rajeev Rumale](allocations/Rujul_Rajeev_Rumale.md) | @rujul-rumale | YES | 0 | 1 | 0 | 1 | 0 | 0 | **80** | BELOW |
+| 4 | [Rujul Rajeev Rumale](allocations/Rujul_Rajeev_Rumale.md) | @rujul-rumale | YES | 1 | 1 | 0 | 1 | 0 | 0 | **150** | BELOW |
+| 5 | [Vaibhav Santosh Tiwari](allocations/Vaibhav_Santosh_Tiwari.md) | @orignalbox | YES | 1 | 0 | 1 | 1 | 0 | 0 | **150** | BELOW |
+| 6 | [Saksham Sud](allocations/Saksham_Sud.md) | @geneticscrol | YES | 2 | 0 | 0 | 0 | 0 | 0 | **140** | BELOW |
+| 7 | [Adeep AG](allocations/Adeep_AG.md) | @adeep13 | YES | 1 | 1 | 0 | 0 | 0 | 0 | **110** | BELOW |
+| 8 | [Nathan Mathews](allocations/Nathan_Mathews.md) | @deagle2 | YES | 1 | 0 | 1 | 0 | 0 | 0 | **110** | BELOW |
+| 9 | [Revand Pradeep](allocations/Revand_Pradeep.md) | @revx5 | YES | 1 | 1 | 0 | 0 | 0 | 0 | **110** | BELOW |
+| 10 | [Rudra Das](allocations/Rudra_Das.md) | @dengrao | YES | 0 | 0 | 0 | 0 | 0 | 2 | **100** | BELOW |
+| 11 | [Dev Kumar Singh](allocations/Dev_Kumar_Singh.md) | @2232def | YES | 0 | 0 | 0 | 0 | 0 | 1 | **90** | BELOW |
+| 12 | [Harshit Kumar Sharma](allocations/Harshit_Kumar_Sharma.md) | @harshit2387 | YES | 0 | 0 | 1 | 1 | 0 | 0 | **80** | BELOW |
 | 13 | [ANNESTIO PIETY CASTANHA](allocations/ANNESTIO_PIETY_CASTANHA.md) | @apcetc | YES | 1 | 0 | 0 | 0 | 0 | 0 | **70** | BELOW |
 | 14 | [Shreya Veni](allocations/Shreya_Veni.md) | @concatenate-this | YES | 0 | 0 | 1 | 0 | 0 | 0 | **40** | BELOW |
 | 15 | [Veer Kishan Whabi](allocations/Veer_Kishan_Whabi.md) | @veeru24ec006 | YES | 0 | 0 | 0 | 1 | 0 | 0 | **40** | BELOW |

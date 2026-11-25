@@ -1,6 +1,6 @@
-# Submissions by Fellow - 2026-11-25 12:09 UTC
+# Submissions by Fellow - 2026-11-25 12:46 UTC
 
-_Total: 62 accepted submissions across 23/69 fellows_
+_Total: 63 accepted submissions across 23/69 fellows_
 
 ## Adeep AG - 3 submission(s), 110 pts
 - [Linkedin] Geto Web IDE — Browser-Based IDE for Shrike-Lite (2026-10-27) - https://www.linkedin.com/posts/adeep-ag-adi132007_vicharak-opensource-embeddedsystems-ugcPost-7520750863313817600-W9P3/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFXM3gABgrZ5TwsjS5mNu4jNwJArM95rrHQ - 40 pts - `Adeep_AG_Linkedin_2026-10-27.json`
@@ -75,8 +75,9 @@ _Total: 62 accepted submissions across 23/69 fellows_
 - [Insta reel] HHow a FPGA handles Wiring internally far better than a microcontroller. (2026-10-30) - https://www.instagram.com/reel/DfHyi7Vox4v/?utm_source=ig_web_copy_link&xtok=MzRlODBiNWFlZA==&srtk=MzRlODBiNWFlZA== - 50 pts - `Rudra_Das_Insta_reel_2026-10-30.json`
 - [PurchaseProof] Purchase proof of shrike lite, from Vicharak website, order number #4654 (2026-10-05) - https://drive.google.com/file/d/1MZLztG02_bqR_z3ZRcP0hvcpkmajiLCZ/view?usp=sharing - 0 pts - `Rudra_Das_PurchaseProof_2026-10-05.json`
 
-## Rujul Rajeev Rumale - 3 submission(s), 80 pts
+## Rujul Rajeev Rumale - 4 submission(s), 150 pts
 - [Linkedin] Linkedin Fellowship Announcement draft post 1 (2026-10-21) - https://docs.google.com/document/d/1fMqggaOhPgZnX6EvHaZLTOqjfvpdaqLAtQBr_m7m3y0/edit?usp=sharing - 40 pts - `Rujul_Rajeev_Rumale_Linkedin_2026-10-21.json`
+- [Project] Shrike-TraceRunner: FPGA-Primary PID Line Follower (2026-11-16) - https://github.com/Rujul-Rumale/Shrike-TraceRunner - 70 pts - `Rujul_Rajeev_Rumale_Project_2026-11-16.json`
 - [PurchaseProof] Vicharak Kit Purchase Proof (2026-10-20) - https://drive.google.com/drive/folders/14tWHuu1n-5U8KMOqeQ7zrWIszjdGWbXe?usp=sharing - 0 pts - `Rujul_Rajeev_Rumale_PurchaseProof_2026-10-20.json`
 - [X] X Fellowship Announcement draft First post (2026-10-21) - https://docs.google.com/document/d/1Rvc4D2nGtCmJ6Kf41bTGzvQwnRWxOxn54YWQSsxgKlQ/edit?usp=sharing - 40 pts - `Rujul_Rajeev_Rumale_X_2026-10-21.json`
 
