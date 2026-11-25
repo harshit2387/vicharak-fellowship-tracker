@@ -1,6 +1,6 @@
-# Submissions by Fellow - 2026-11-24 14:07 UTC
+# Submissions by Fellow - 2026-11-25 11:37 UTC
 
-_Total: 59 accepted submissions across 23/69 fellows_
+_Total: 60 accepted submissions across 23/69 fellows_
 
 ## Adeep AG - 3 submission(s), 110 pts
 - [Linkedin] Geto Web IDE — Browser-Based IDE for Shrike-Lite (2026-10-27) - https://www.linkedin.com/posts/adeep-ag-adi132007_vicharak-opensource-embeddedsystems-ugcPost-7520750863313817600-W9P3/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFXM3gABgrZ5TwsjS5mNu4jNwJArM95rrHQ - 40 pts - `Adeep_AG_Linkedin_2026-10-27.json`
@@ -91,7 +91,8 @@ _Total: 59 accepted submissions across 23/69 fellows_
 ## Sumit Maheshwari - 1 submission(s), 0 pts
 - [PurchaseProof] Just got a brand new development board from Vicharak (2026-10-06) - https://lnkd.in/p/gFtzT9YD - 0 pts - `Sumit_Maheshwari_PurchaseProof_2026-10-06.json`
 
-## Vaibhav Santosh Tiwari - 2 submission(s), 40 pts
+## Vaibhav Santosh Tiwari - 3 submission(s), 110 pts
+- [Project] Bare-Metal RP2040 Firmware for Shrike Lite (Zero SDK) (2026-10-29) - https://github.com/orignalbox/shrike-bare-metal - 70 pts - `Vaibhav_Santosh_Tiwari_Project_2026-10-29.json`
 - [PurchaseProof] Purchase proof - Shrike Lite, Order #6489 (2026-10-03) - https://raw.githubusercontent.com/orignalbox/vicharak-fellowship-tracker/proof-assets/Vaibhav_Santosh_Tiwari_proof.png - 0 pts - `Vaibhav_Santosh_Tiwari_PurchaseProof_2026-10-03.json`
 - [X] Vicharak Shrike Lite Unboxing & Packaging First Impressions (2026-10-11) - https://x.com/imnot_linear/status/2109241369109909789 - 40 pts - `Vaibhav_Santosh_Tiwari_X_2026-10-11.json`
 

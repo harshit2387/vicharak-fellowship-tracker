@@ -482,6 +482,15 @@
   ],
   "Vaibhav Santosh Tiwari": [
     {
+      "type": "Project",
+      "points": 70,
+      "title": "Bare-Metal RP2040 Firmware for Shrike Lite (Zero SDK)",
+      "link": "https://github.com/orignalbox/shrike-bare-metal",
+      "date": "2026-10-29",
+      "file": "Vaibhav_Santosh_Tiwari_Project_2026-10-29.json",
+      "for_type": ""
+    },
+    {
       "type": "PurchaseProof",
       "points": 0,
       "title": "Purchase proof - Shrike Lite, Order #6489",
